@@ -26,7 +26,7 @@
     "victory": "^32.0.0"
   },
   "devDependencies": {
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "react-scripts": "2.1.8",
     "serve": "^10.1.2",
     "stylelint": "^9.3.0",
