@@ -23,7 +23,7 @@
     "react-simple-maps": "^0.12.1",
     "react-sizeme": "^2.5.2",
     "reactstrap": "^7.1.0",
-    "victory": "^32.0.0"
+    "victory": "^36.6.8"
   },
   "devDependencies": {
     "node-sass": "^4.11.0",
